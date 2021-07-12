@@ -1,6 +1,4 @@
 package com.company;
-
-import javax.swing.plaf.nimbus.State;
 import java.io.*;
 import java.util.Properties;
 import java.util.Scanner;
